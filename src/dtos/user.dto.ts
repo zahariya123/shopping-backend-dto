@@ -15,6 +15,8 @@ export class UserDto extends DtoBase {
     
     phoneNumber?: string;
 
+    address?: string;
+
     
     password?: string;
 
